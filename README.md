@@ -1,5 +1,6 @@
 # Pet_Provider_App
 
+
 This application is to find people to take care of your pets and to also provide that option
 as a pet care taker. What sets this application apart from apps like Rover is that it is not
 just limited to cats and dogs. Users can also be matched on smaller pets such as pond fish,
